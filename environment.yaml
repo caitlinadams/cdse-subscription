@@ -1,0 +1,10 @@
+name: cdse-odata
+channels:
+- conda-forge
+- nodefaults
+dependencies:
+- python >=3.13.2,<3.14
+- ipykernel >=6.29.5,<7
+- pyyaml >=6.0.2,<7
+- requests >=2.32.3,<3
+
